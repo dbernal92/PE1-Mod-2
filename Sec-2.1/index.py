@@ -13,3 +13,8 @@ print("Down came the rain\nand washed the spider out.")
 # Escape character
 # print("\") - Creates an error, has to be doubled to print the \
 # print("\\")
+
+# 2.1.9 Using multiple arguments
+print("The itsy bitsy spider" , "climbed up" , "the waterspout.")
+# a print() function invoked with more than one argument outputs them all on one line;
+# the print() function puts a space between the outputted arguments on its own initiative.
